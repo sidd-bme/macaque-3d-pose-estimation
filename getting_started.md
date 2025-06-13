@@ -1,16 +1,5 @@
-# Getting started 
-This document explains how to run the demo.
-
-<!--
-For github, we may need to separate video and weights data...
-
-# Additional dataset for the demo
-Please download the video data and pretrained models from [XXXXX](XXXXX).   
-Place the unzipped contents ("videos" and "weight" folders) in the same directory as this file. 
--->
-
 # Tested environment 
-Ubuntu 20.04.6, NVIDIA Driver Version: 550.90.07
+Ubuntu 20.04.6, NVIDIA A5000 (NVIDIA Driver Version: 550.90.07)
 
 # Python version 
 3.9.21
