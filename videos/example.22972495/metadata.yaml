@@ -1,0 +1,31 @@
+__store:
+  chunksize: 10000
+  class: VideoImgStoreFFMPEG
+  created_utc: '2021-10-18T07:00:00.475562'
+  encoding: null
+  format: nvenc-slow-yuv420-lq30
+  imgdtype: uint8
+  imgshape:
+  - 1536
+  - 2048
+  - 3
+  timezone_local: Asia/Tokyo
+  uuid: 63511e9af5424f8bb523b008e4e41ca9
+  version: 2
+autoexposuretimeabslowerlimit: 30
+autoexposuretimeabsupperlimit: 24000
+camera: Basler acA2040-35gc (22972495)
+camera_serial: '22972495'
+exposureauto: Continuous
+gainauto: Continuous
+motif_hostname: mats-motif01
+motif_mode: master
+motif_version: 5.2.0-beta26
+motifptpframerate: 24
+synchronization: timestamp
+synchronization_ptp_offset_from_master: 100
+synchronizationbackend: baslerptp
+synchronizationtime: 1634539535.712671
+synchronizationuuid: 497a806575d34190bb3cfa4215d0c6da
+timezone: ''
+trim_start: 945560.340883224

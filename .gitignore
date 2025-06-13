@@ -1,0 +1,41 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model weights and checkpoints
+*.pth
+*.pt
+
+# Results and heavy outputs
+output/
+output_2_original/
+results2d/
+results3D/
+results3D_sweep/
+for_validation*/
+*.pickle
+*.npy
+*.h5
+
+# Video/image outputs
+imgs/
+videos/*/
+*.mp4
+*.gif
+
+# Data not for the repo
+*.json
+*.csv
+*.mat
+
+# IDE/project config
+.vscode/
+.idea/
+.DS_Store
+
+# System files
+Thumbs.db
