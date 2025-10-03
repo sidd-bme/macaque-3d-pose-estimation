@@ -30,7 +30,7 @@
 ## Reference
 If you use this code or dataset, please cite:
 
-Matsumoto, J., Kondo, Y., Iwashita, J., Toyoda, K., Matsumoto, Y., Ohira, K., Okano, H., Sugano, S., Fujii, M., & Isoda, M. (2025). Three-dimensional markerless motion capture of multiple freely behaving monkeys toward automated characterization of social behavior. *Science Advances*, *11*, eadn1355. https://doi.org/10.1126/sciadv.adn1355
+Jumpei Matsumoto et al. ,Three-dimensional markerless motion capture of multiple freely behaving monkeys toward automated characterization of social behavior.Sci. Adv.11,eadn1355(2025).DOI:10.1126/sciadv.adn1355
 ---
 ## Replicating or Extending the Pipeline
 - Configuration templates are in [`configs/`](./configs/):
