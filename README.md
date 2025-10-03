@@ -43,9 +43,7 @@
 
 If you use this code or dataset, please cite:
 
-> Matsumoto, J., Kaneko, T., et al. (2023).  
-> [Three-dimensional markerless motion capture of multiple freely behaving monkeys for automated characterization of social behavior](https://www.biorxiv.org/content/10.1101/2023.09.13.556332v1).  
-> *bioRxiv*. [Direct PDF](https://www.biorxiv.org/content/10.1101/2023.09.13.556332v1.full.pdf)
+Jumpei Matsumoto et al. ,Three-dimensional markerless motion capture of multiple freely behaving monkeys toward automated characterization of social behavior.Sci. Adv.11,eadn1355(2025).DOI:10.1126/sciadv.adn1355
 
 ---
 
